@@ -1,0 +1,9 @@
+Day 2 - 06/06/2025
+Practicing DSA using C++
+
+Today I continued learning more about datatypes.
+I explored how to find the size of different datatypes using the sizeof operator – it helped me understand how much memory each type takes (like int, float, double, etc.).
+
+I also started learning about modifiers like short, long, unsigned, etc.
+But to be honest, I’m not very confident about them yet.
+So I’ll go through them again tomorrow to get a better understanding.
