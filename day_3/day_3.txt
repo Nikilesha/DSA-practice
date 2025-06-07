@@ -1,0 +1,21 @@
+Day 3 - 07/06/2025
+Practicing DSA using C++
+
+Today I explored more about type conversions and memory size.
+
+I checked the size of long int using the sizeof operator.
+
+Practiced implicit type casting by dividing integers with floats (5/3.0, 5.0/3) to understand how C++ handles mixed-type operations.
+
+Then I saw how characters can be manipulated by adding integers – like turning 'A' into 'B' by doing letter + 1.
+
+Also did some explicit type conversion by casting an int to float before dividing, like this:
+
+cpp
+Copy
+Edit
+cout << (float)x / 3;
+At the end, I declared 5 integers and tried to find their average using fixed and setprecision(4) to format the output with 4 decimal places.
+Though I didn’t assign values to the variables yet, the logic part is clear.
+
+Feeling more comfortable with type conversions now!
