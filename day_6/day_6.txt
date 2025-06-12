@@ -1,0 +1,12 @@
+Day 6 - 12/06/2025
+Practicing Loops using C++
+
+Today was all about getting more comfortable with loops and applying them in practical scenarios. Initially, I started off with some simple while and for loop logic, but as I progressed, I found myself wanting to do something more interactive and realistic.
+
+One such moment was when I decided to simulate a fuel filling system. I realized just printing output line-by-line wasn't giving the real-time feel I had in mind. So I looked up how to refresh the same line in the console using \r and flush. That worked really well.
+
+Then came the need to slow things down — I didn’t want the loop to run instantly. That’s when I searched and learned about the clock() function and how to write a custom delay() function using <ctime>. It gave me control over the output speed and made the program feel more dynamic.
+
+Another issue I ran into was related to floating point formatting. I noticed that without proper formatting, the litre values would show too many decimal places. I solved this using fixed and setprecision() from <iomanip>, which helped clean up the output.
+
+By the end of it, I had written something that not only worked logically but also looked smooth and user-friendly. It felt nice combining what I already knew with new things I picked up on the go.
