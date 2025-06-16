@@ -1,0 +1,21 @@
+Day 7 - 16/06/2025
+Practicing DSA using C++
+
+Today I explored the concept of functions in C++. I’ve used main() so far, but this was the first time I properly wrote and used a custom function to handle logic separately.
+
+I built a password strength checker, and instead of putting everything inside main(), I created a function named check() that takes a password as input and returns a string indicating its strength.
+
+This taught me how functions can:
+
+Encapsulate logic, making code cleaner and more organized
+
+Accept parameters and return results
+
+Improve reusability and make the main program flow easier to understand
+
+While writing the function, I ran into some small issues — like how to return a meaningful response, and how to use bool flags to track the types of characters in the password (uppercase, lowercase, numbers, special characters). I also added a condition to check for minimum password length.
+
+Using standard library functions like islower(), isupper(), isdigit(), and separating everything into a dedicated check() function really helped make the program structured and readable.
+
+Feeling a lot more confident about using functions now!
+
