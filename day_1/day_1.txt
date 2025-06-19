@@ -1,9 +1,0 @@
-Day 1 - 04/06/2025
-Practicing DSA using C++
-
-Today I started learning DSA using C++.
-First, I learnt the basics of C++ – starting with the boilerplate code like #include <iostream>, using namespace std;, and writing the main() function.
-Then I explored how input and output works in C++ using cin and cout.
-
-After that, I learnt about variables and different datatypes like int, float, double, char, and bool.
-I got a basic idea of how to declare them and how they are used in simple programs.
