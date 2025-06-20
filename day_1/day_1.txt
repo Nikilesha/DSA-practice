@@ -1,0 +1,20 @@
+Day 1 - 20/06/2025
+Java Practice (Code Café Project)
+
+Today I started with Java and decided to create something practical — a café ordering system using menus and basic logic.
+
+At first, I had to figure out how to build a user-friendly menu using just the console. It took a while to organize everything so that the flow felt smooth, but I managed it using while loops and switch statements.
+
+One challenge I faced was handling nested menus — for example, when a user picks “Coffee,” they should then see sub-options like Cappuccino, Latte, etc. To solve this, I used a while loop inside each case so the user could make multiple selections before going back.
+
+I also learned how to:
+
+Use the Scanner class to take input from the user.
+
+Keep track of total items and bill amount using counters (items, sum).
+
+Break menus into sections using switch-case blocks to avoid clutter.
+
+The code got a bit long, and I realized I could break it into functions later, but for now, I just focused on understanding flow, input handling, and logic. Despite some repetition in the code, it felt rewarding to build a small, working console application.
+
+Great start to my Java learning journey!
